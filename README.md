@@ -101,3 +101,27 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff
 </div>
 
 
+
+
+---
+*Section ajoutée par Manus*
+
+# Mrrobot-rx
+
+Config files for my GitHub profile.
+
+## Badges
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Fonctionnalités
+- Fonctionnalité 1
+- Fonctionnalité 2
+- Fonctionnalité 3
+
+## Comment l'exécuter localement
+1. Clonez le dépôt : `git clone https://github.com/Mrrobot-rx/Mrrobot-rx.git`
+2. Naviguez vers le répertoire du projet : `cd Mrrobot-rx`
+3. Ouvrez `index.html` dans votre navigateur ou suivez les instructions spécifiques au projet.
+
+## Crédits
+Développé par Mrrobot-rx.
