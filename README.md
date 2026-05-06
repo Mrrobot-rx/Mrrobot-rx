@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=220&section=header&text=MR%20ROBOT&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Cybersecurity%20Engineer"/>
-desc=%20%20AI%20%7C%20Cybersecurity%20Engineer
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&width=600&lines=AI+Engineer;Cybersecurity+Specialist;Automation+Architect;Building+Agentic+Systems"/>
 
 </div>
