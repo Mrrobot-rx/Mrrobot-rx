@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=220&section=header&text=MR%20ROBOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Cybersecurity%20Engineer&descAlignY=65"/>)
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=220&section=header&text=MR%20ROBOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Cybersecurity%20Engineer&descAlignY=65"/>
 
 <!-- Animated Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&width=600&lines=Building+Intelligent+Security+Systems;Mastering+AI+Automation;Securing+the+Digital+Frontier;Crafting+Immersive+Web+Experiences)](https://git.io/typing-svg)
