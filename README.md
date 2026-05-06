@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Static header banner (much more reliable than capsule-render) -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=MR+ROBOT;AI+%7C+Cybersecurity+Engineer"
-  alt="MR ROBOT - AI | Cybersecurity Engineer"
-/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=220&section=header&text=MR%20ROBOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Cybersecurity%20Engineer&descAlignY=65"/>
 
 <!-- Animated Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&width=600&lines=Building+Intelligent+Security+Systems;Mastering+AI+Automation;Securing+the+Digital+Frontier;Crafting+Immersive+Web+Experiences)](https://git.io/typing-svg)
@@ -56,19 +53,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrrobot-rx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-rx&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrrobot-rx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-rx&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <!-- Switched to the reliable fork that doesn't depend on Heroku -->
-  <img src="https://streak-stats.demolab.com?user=Mrrobot-rx&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrrobot-rx&theme=radical"/>
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrrobot-rx&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrrobot-rx&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrrobot-rx&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
@@ -77,10 +73,9 @@
 
 <div align="center">
 
-[![METATRON](https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=METATRON&theme=radical)](https://github.com/Mrrobot-rx/METATRON)
-<!-- Fixed repository name to skill-forge-ai2 -->
-[![Skill Forge AI](https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=skill-forge-ai2&theme=radical)](https://github.com/Mrrobot-rx/skill-forge-ai2)
-[![LiteRT-LM](https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=LiteRT-LM&theme=radical)](https://github.com/Mrrobot-rx/LiteRT-LM)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=METATRON&theme=radical)](https://github.com/Mrrobot-rx/METATRON)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=skill-forge-ai&theme=radical)](https://github.com/Mrrobot-rx/skill-forge-ai)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=LiteRT-LM&theme=radical)](https://github.com/Mrrobot-rx/LiteRT-LM)
 
 </div>
 
@@ -90,8 +85,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  <!-- Replace URL -->
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle) <!-- Replace URL -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=ff004c)](https://mrrobot-rx.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:designrecord8@gmail.com)
 
@@ -99,8 +94,34 @@
 
 ---
 
-<!-- Completely removed the unreliable capsule-render footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 <div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Mrrobot-rx&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mrrobot-rx&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
+
+
+
+
+---
+*Section ajoutée par Manus*
+
+# Mrrobot-rx
+
+Config files for my GitHub profile.
+
+## Badges
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Fonctionnalités
+- Fonctionnalité 1
+- Fonctionnalité 2
+- Fonctionnalité 3
+
+## Comment l'exécuter localement
+1. Clonez le dépôt : `git clone https://github.com/Mrrobot-rx/Mrrobot-rx.git`
+2. Naviguez vers le répertoire du projet : `cd Mrrobot-rx`
+3. Ouvrez `index.html` dans votre navigateur ou suivez les instructions spécifiques au projet.
+
+## Crédits
+Développé par Mrrobot-rx.
