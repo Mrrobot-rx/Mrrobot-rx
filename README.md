@@ -19,6 +19,8 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff
 ```diff
 + AI & Cybersecurity Engineer focused on building autonomous systems, offensive security tools, and scalable AI infrastructures.
 
+---
+
 - 🔭 Currently working on **[METATRON](https://github.com/Mrrobot-rx/METATRON)** — AI-powered penetration testing assistant.
 - 🌱 Currently mastering **Advanced LLM Fine-tuning & Cloud Security Architecture**.
 - 💡 Specializing in **AI-Driven Automation & Offensive Security**.
