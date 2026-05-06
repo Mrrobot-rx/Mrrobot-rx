@@ -99,3 +99,8 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mrrobot-rx&color=blueviolet&style=flat-square&label=Profile+Views"/>
 </div>
+
+
+```diff
++ AI & Cybersecurity Engineer focused on building autonomous systems, offensive security tools, and scalable AI infrastructures
+</div>
