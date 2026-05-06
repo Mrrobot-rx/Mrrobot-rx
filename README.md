@@ -38,4 +38,83 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases & Tools
-![PostgreSQL](https://
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mrrobot-rx&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrrobot-rx&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Mrrobot-rx&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrrobot-rx&theme=react-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrrobot-rx&theme=radical&no-frame=true&row=1&column=7"/>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Mrrobot-rx/METATRON">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=METATRON&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Mrrobot-rx/skill-forge-ai">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=skill-forge-ai&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Mrrobot-rx/LiteRT-LM">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrrobot-rx&repo=LiteRT-LM&theme=radical&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/your-handle">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://mrrobot-rx.github.io">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=ff004c"/>
+</a>
+
+<a href="mailto:designrecord8@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=120&section=footer"/>
+
+<img src="https://komarev.com/ghpvc/?username=Mrrobot-rx&color=blueviolet&style=flat-square&label=Profile+Views"/>
+
+</div>
