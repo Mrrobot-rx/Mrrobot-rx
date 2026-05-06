@@ -1,9 +1,5 @@
 <div align="center">
 
-```diff
-+ AI & Cybersecurity Engineer focused on building autonomous systems, offensive security tools, and scalable AI infrastructures
-
-
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=220&section=header&text=MR%20ROBOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Cybersecurity%20Engineer&descAlignY=65"/>)
 
